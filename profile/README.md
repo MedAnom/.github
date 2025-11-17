@@ -12,7 +12,7 @@ MedAnom은 혈액검사 데이터를 기반으로 개인의 빈혈(ANE)·허혈�
 - 지도 기반 병원 안내  
 
 ## 🧬 데이터
-- 7만 건 혈액 데이터  
+- 70만 건 혈액 데이터  
 - SEX, AGE_G, HGB, TCHOL, TG(log1p), HDL  
 - 타깃: ANE, IHD, STK  
 
